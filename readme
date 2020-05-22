@@ -1,0 +1,16 @@
+# Investigate a Relational Database
+I did the project of investigate a relational datebase with a Udacity nanodegree programme.
+
+The project i put in Each slide is :
+* Brief graph to show how it works.
+* Brief information that i get in the code result
+* Deduce the result
+
+The four questions of interest :
+* *What is the most famous genre of family movies according to the sum of rental count?*
+* *How the length of rental duration of specifically ”family genre” movies comparing to the duration that all movies are rented for.*
+* *Compare a family-friendly film category, each of the quartiles , and the corresponding count of movies within each combination of film category for each corresponding rental duration category.*
+* *How the two stores compare in their count of rental orders during every month for all the years in the data.*
+
+# Software
+**SQL**, **Excel** and **PowerPoint**
